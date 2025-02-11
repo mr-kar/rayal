@@ -361,7 +361,8 @@ footer .copyright{
 .gall-col img{
     height: 300px;
     width: 250px;
-    transition: 0.3s
+    border-radius: 10px;
+    transition: 0.3s;
 }
 .gall-col img:hover{
     transform: scale(1.1);
